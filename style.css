@@ -1,0 +1,98 @@
+*{
+    position: relative; 
+    margin: 0;
+    padding: 0;
+    padding-bottom: 3%;
+}
+
+.main{
+    padding-top:5%;
+    width: 30vw;
+
+    margin-left : 35vw;
+}
+
+.form{
+    height: auto;
+    background-color: yellow;
+    position: absolute;
+    padding:20px;    
+    margin: 0;
+}
+.heading{
+    padding-left: 10%;
+    text-align: left;
+    font-size: 250%;  
+}
+
+.spacer{
+    padding-bottom: 5%;
+}
+.form-group{
+    width: 100%;
+    padding-bottom: 2%;
+    font-size: 130%;  
+      
+}
+label {
+    text-align: start;
+    padding: 2%;
+    justify-content: center;
+    align-items: center
+}
+select{
+    font-size: 85%;
+    width: 50%; 
+    
+}
+.form-group input{
+    font-size: 100%;
+    width: 50%; 
+    text-overflow: clip;
+    padding-left: 1%;
+}
+.units{
+    padding-bottom: 10%;
+    justify-content: center;
+    align-items: center;
+    font-size: 140%;
+}
+
+.but-result{
+    text-align: center;
+    padding: 2%;
+    font-size: 100%;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    border-radius: 8px;
+    border: 0px;
+}
+.form-group-button {
+    width: 100%;
+    padding-top: 10%;
+    padding-left: 30%;
+}
+.form-group-button input{
+    font-size: 130%;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-group-button p{
+    color: blue;
+    text-align: start;
+    padding: 2%;
+    font-size: 300%;
+
+}
+.form-guide p, h1{
+    text-align: start;
+    padding: 2%;
+    font-size: 120%;
+    width: 80%;
+    padding-left: 10%;
+    width: 100%;
+}
+
+
